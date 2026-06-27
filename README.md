@@ -75,7 +75,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn link
+- LinkedIn: https://www.linkedin.com/in/gopathi-sneha-401b7339a/
 - Email: gopathisnehassss@gmail.com
 
 ---
