@@ -49,8 +49,13 @@
 ---
 
 ## 📌 Projects
+ Medi lens( Fake medicine detection platform),
 
-🔹 Coming soon...
+ SIETK AI( An ai Assistance made for collage to implement in collage website),
+
+ ShowSync( a model website for an entertainment sector startup)
+
+
 
 (I am continuously learning and building projects to improve my skills.)
 
